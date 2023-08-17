@@ -12,6 +12,9 @@ public class StringExam {
         String str5 = "Hello World";
         String str6 = str5.substring(6);
 
+        if(str1.equals(str2))
+            System.out.println("str1과 str2는 같은 값을 가집니다.");
+
         if(str1 == str2)
             System.out.println("str1과 str2는 같은 레퍼런스입니다.");
 
