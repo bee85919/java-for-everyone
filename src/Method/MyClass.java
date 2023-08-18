@@ -1,4 +1,4 @@
-package Field;
+package Method;
 
 public class MyClass {
     // public 리턴형 메서드명 (매개변수들){ 필요한 기능 구현 }
